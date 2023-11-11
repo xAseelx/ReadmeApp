@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Book_data",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Isfave",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Bookname",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
